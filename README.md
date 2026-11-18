@@ -60,6 +60,29 @@ For the second activity, I used recovered the password of a locked PDF using Net
 
 I first uploaded the locked PDF to the hash calculator to grt the hash, then paste that hash into the password cracker to find the password.
 
+# 5. Recommendations
+
+Based on the observations from these activities, I recommend the following security improvements:
+
+1.  **Very Strong password are encouraged to be used**  
+    The use of strong password are encoraged to personal secure files that does not need public access
+
+
+# 7. Conclusion
+
+During Week 3 of my Cybersecurity & Ethical Hacking internship, I completed practical activities password cracking.
+
+In password cracking with JTR I used JTR john and JTR johnny to recover the password of a protected file.
+
+In the password cracking with Networkwalks tools i recovered the password of the locked PDF using the Networkswalkks Hash calculator and password Cracker
+
+The exercises helps me to learn how password cracking works and why it is important to use strong passwords for protection.
+Finally i also learnt that encryption ia a two way functon while hashing is a one way function that scrambles plain text to produce a unique message digest.
+
+
+# 8. Evidences Collected
+*Screenshots collected as evidence during the activities are below:*
+
 <img width="902" height="712" alt="Screenshot 2026-11-18 084915" src="https://github.com/user-attachments/assets/2252e847-4ca5-4780-bcae-1e5b01956c1c" />
 <img width="940" height="922" alt="Screenshot 2026-11-18 084726" src="https://github.com/user-attachments/assets/19b37d82-6511-42db-a808-868d4d0b1266" />
 <img width="948" height="924" alt="Screenshot 2026-11-18 084650" src="https://github.com/user-attachments/assets/8a2e1451-e406-49d2-9186-45ac92bfb067" />
