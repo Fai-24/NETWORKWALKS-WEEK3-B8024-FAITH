@@ -28,3 +28,46 @@ Everything was done on a Windows PC with JTR John and JTR Johnny installed. Ever
 # 3. Tools Used
 
 The table below lists each tool used in this report and its purpose.
+
+
+| Tool | Purpose |
+|---|---|
+| John the Ripper      | Password cracking tool                                                 |
+| Jonnny               | The graphical version of John the Ripper                               |
+| onlinehashcracker    | to find the hash of a file uploaded                                    |
+| Hash calculator      | to find the hash of a file uploaded                                    |
+| Password cracker     | Hash every word in a wordlist and match it against a PDF password hash.|
+
+
+# 4. Activities Performed
+
+## 4.1 Password cracking with JTR
+
+I cracked the password of attached PDF file (My locked PDF2.pdf) using JTR JOHN and JTR JOHNNY tools on my windows PC. 
+
+First, I downloaded the John the Ripper from the official website on my windows PC
+
+I then downloaded the Johnny GUI from the official website.
+
+Using  an encrypted PDF file downloaded to my PC i opened the hash website and uploaded the pdf file to find the its hash.
+
+I saved and copied the hash value and saved it as a text file
+
+Finally, I opened johnny again and , clicked on open password file, browse my text fle containing my hash value, clicked open and started a new attack, which took some time and the PDF file wpassword was cracked.
+
+## 4.2 Password cracking with Neworkwalks tools
+For the second activity, I used recovered the password of a locked PDF using Networkwalks Hash calculator and password cracker to find the password.
+
+I first uploaded the locked PDF to the hash calculator to grt the hash, then paste that hash into the password cracker to find the password.
+
+<img width="902" height="712" alt="Screenshot 2026-11-18 084915" src="https://github.com/user-attachments/assets/2252e847-4ca5-4780-bcae-1e5b01956c1c" />
+<img width="940" height="922" alt="Screenshot 2026-11-18 084726" src="https://github.com/user-attachments/assets/19b37d82-6511-42db-a808-868d4d0b1266" />
+<img width="948" height="924" alt="Screenshot 2026-11-18 084650" src="https://github.com/user-attachments/assets/8a2e1451-e406-49d2-9186-45ac92bfb067" />
+<img width="562" height="798" alt="Screenshot 2026-11-18 081749" src="https://github.com/user-attachments/assets/4863537b-4af1-4f3f-af1a-b71b7d48cba6" />
+<img width="613" height="797" alt="Screenshot 2026-11-18 082524" src="https://github.com/user-attachments/assets/3d5dc870-9a6f-475e-aa31-fcefef01c409" />
+
+
+
+
+
+
